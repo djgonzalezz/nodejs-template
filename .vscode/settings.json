@@ -1,0 +1,17 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.rulers": [80, 120, 160],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "jshint.options": {
+        "esversion": 9
+    },
+    "typescript.suggest.paths": false,
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.printWidth": 120
+}
